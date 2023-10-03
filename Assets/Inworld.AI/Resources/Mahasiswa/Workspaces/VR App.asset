@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 679553faa086cdc48a58556300e27230, type: 3}
+  m_Name: VR App
+  m_EditorClassIdentifier: 
+  title: VR App
+  fullName: workspaces/vr_app
+  characters:
+  - {fileID: 11400000, guid: dce10af454c6a9e4b879c1f6be592b2f, type: 2}
+  - {fileID: 11400000, guid: ddc7a691a058aa64a997399446dfb612, type: 2}
+  - {fileID: 11400000, guid: 376d93a275ce27a49bad394e20d88983, type: 2}
+  scenes:
+  - {fileID: 0}
+  integrations:
+  - {fileID: 0}
+  index: 0
