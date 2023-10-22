@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0447596b1a67de49ba5720fda0bdabe, type: 3}
+  m_Name: Mrs. Sarah
+  m_EditorClassIdentifier: 
+  characterName: Mrs. Sarah
+  brain: workspaces/vr_app/characters/mrs_sarah
+  avatar: {fileID: 0}
+  workspace: workspaces/vr_app
+  currentScene: workspaces/vr_app/characters/mrs_sarah
+  ownerShip: 0
+  defaultThumbnail: {fileID: 2800000, guid: 69a2df89fc63da144ad9e57dbd29b8e2, type: 3}
+  index: 0
+  triggers: []
+  scenes:
+  - workspaces/vr_app/scenes/vr_app
+  modelUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_model/4855c576-e0f4-4952-88ee-1e202e51a282.glb
+  posUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/4855c576-e0f4-4952-88ee-1e202e51a282_posture.jpg
+  previewImgUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/4855c576-e0f4-4952-88ee-1e202e51a282_portrait.jpg
+  characterID: f542664f-38aa-4d2b-bafe-78c53da0c4dc

@@ -18,9 +18,11 @@ MonoBehaviour:
   - {fileID: 11400000, guid: dce10af454c6a9e4b879c1f6be592b2f, type: 2}
   - {fileID: 11400000, guid: ddc7a691a058aa64a997399446dfb612, type: 2}
   - {fileID: 11400000, guid: 376d93a275ce27a49bad394e20d88983, type: 2}
+  - {fileID: 11400000, guid: ef044be2678aeac45953957a544f34c3, type: 2}
   scenes:
   - {fileID: 11400000, guid: c9c0648307aeef64fac675e628d39f1f, type: 2}
   integrations:
+  - {fileID: 0}
   - {fileID: 0}
   - {fileID: 11400000, guid: 20618c97f1823c6419206077e81e563c, type: 2}
   index: 0

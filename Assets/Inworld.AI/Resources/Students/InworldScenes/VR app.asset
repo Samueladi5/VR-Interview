@@ -17,8 +17,9 @@ MonoBehaviour:
   description: Virtual Lab of Job Interview. Students will giving the knowledge of
     job interview from Mr.Jack and will be practicing inteview with Mr. Scott.
   characters:
+  - workspaces/vr_app/characters/mr_scott
+  - workspaces/vr_app/characters/mrs_sarah
   - workspaces/vr_app/characters/mr_robert
   - workspaces/vr_app/characters/mr_jack
-  - workspaces/vr_app/characters/mr_scott
   triggers: []
   index: 0

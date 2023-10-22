@@ -14,6 +14,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scene-Prac.unity
     guid: 3241e14e22076f04b9e3e2bf0bd314c4
+  - enabled: 1
+    path: Assets/Scenes/Scene-Prac 1.unity
+    guid: 0338e55b124c6d14d92aed12bb7839ea
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0f77640814e39874b9fc655d8d14e01f, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: de77340d7c43e584fade86e42fbfde37, type: 2}
