@@ -11,6 +11,7 @@ A VR Interview Job Simulation is a virtual reality experience designed to replic
 2. Samuel Adi Saut P
 3. Hanif Nurul Farizi
 
-
+# Link Build Exe
+https://drive.google.com/file/d/1q3HQm3NvSprdD7LJ3bXEHF8_jq4aVMnF/view?usp=sharing
 
 
